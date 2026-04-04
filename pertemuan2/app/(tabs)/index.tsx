@@ -59,7 +59,8 @@ const styles = StyleSheet.create({
     fontSize: 22,
     fontWeight: 'bold',
     color: '#1F2937',
-    marginBottom: 5,
+    marginBottom: 20,
+    letterSpacing: 2,
   },
   nim: {
     fontSize: 16,
